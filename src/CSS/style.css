@@ -35,19 +35,19 @@ html{
 }
 
 .slide-rosa{
-    background-image: url(/src/images/cerejeira.png);
+    background-image: url(src/images/cerejeira.png);
 }
 
 .slide-amarelo{
-    background-image: url(/src/images/amarela.png);
+    background-image: url(src/images/amarela.png);
 }
 
 .slide-laranja{
-    background-image: url(/src/images/floresta.png);
+    background-image: url(src/images/floresta.png);
 }
 
 .slide-azul{
-    background-image: url(/src/images/lago.png);
+    background-image: url(src/images/lago.png);
 }
 
 .seta-voltar, .seta-avancar{
