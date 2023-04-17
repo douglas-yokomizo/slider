@@ -28,7 +28,7 @@ You can customize the web page by making changes to the HTML, CSS, and JavaScrip
 - To change the styling, modify the CSS rules in the style.css file.
 - To update the functionality, make changes to the JavaScript code in the slider.js file.
 
-### License
+## License
 This web page is open source and free to use, modify, and distribute under the MIT License. Please refer to the LICENSE file for more information.
 
 ## Contact
